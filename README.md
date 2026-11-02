@@ -27,3 +27,7 @@ cd System-Resource-Usage
 ./system_monitor.py
 ./program_monitor.py
 ```
+
+## Future features
+- Continuous monitoring
+- Pattern analysis from historical data
