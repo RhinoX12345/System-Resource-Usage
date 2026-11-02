@@ -9,12 +9,12 @@ Sometimes, the system of its resources but it's unclear what specific programs c
 - Retrieve each program's usage measurements
 - Insert data into their respective databases alongside timestamps
 
-![System diagram](docs/system_diagram.png)
-![System diagram](docs/program_diagram.png)
+![System Resource diagram](docs/system_diagram.png)
+![Program Resource diagram](docs/program_diagram.png)
 
 ## Tech Stack
 - **Language:** Python
-- **Libraries:** PSUtil
+- **Libraries:** PSUtil, SQLite3
 
 ## Setup
 ```bash
